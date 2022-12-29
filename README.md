@@ -1,0 +1,209 @@
+# My-first-web-page
+<html>
+<head>
+ 
+   <title>about</title>
+
+ 
+   <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+   <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body bgcolor="#E7EDEC">
+   
+
+
+<section class="header">
+
+   <a href="home.html" class="logo">SL Tour</a>
+
+   <nav class="navbar">
+      <a href="home.html">home</a>
+      <a href="about.html">about</a>
+      <a href="package.html">package</a>
+      <a href="book.html">book</a>
+   </nav>
+
+   <div id="menu-btn" class="sl tour-bars"></div>
+
+</section>
+
+
+<div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
+   <h1>about SL Tours </h1>
+</div>
+
+
+<section class="about">
+
+   <div class="image">
+      <img src="images/about-img.jpg" alt="">
+   </div>
+
+   <div class="content">
+      <h3>why choose SL Tours?</h3>
+      <p>we are providing good facilities with law cost, so you & your familly can get very enjoyable budjet tour.</p>
+      <p>Island wide hotel network & good costemer care is our main quality, <br>so you have to no worry to find good service because SL tours always there to help you & your familly</p>
+      <div class="icons-container">
+         <div class="icons">
+            <i class="sl tour-map"></i>
+            <span>top destinations</span>
+         </div>
+         <div class="icons">
+            <i class="sl tour-hand-holding-usd"></i>
+            <span>affordable price</span>
+         </div>
+         <div class="icons">
+            <i class="sl tour-headset"></i>
+            <span>24/7 guide service</span>
+         </div>
+      </div>
+   </div>
+
+</section>
+
+
+<section class="reviews">
+
+   <h1 class="heading-title"> clients reviews </h1>
+
+   <div class="swiper reviews-slider">
+
+      <div class="swiper-wrapper">
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>Absolutely amazing country & i'll come back another day</p>
+            <h3>john dens</h3>
+            <span>traveler</span>
+            <img src="images/pic-1.jfif" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>friendly costemer service & good hotel facilities</p>
+            <h3>Emma parker</h3>
+            <span>traveler</span>
+            <img src="images/pic-2.jpg" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>Off road tour is the best & yala national park tour is awesome</p>
+            <h3>fred kern</h3>
+            <span>traveler</span>
+            <img src="images/pic-3.jpg" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>Me & my familly members so happy by visiting sri lanka, Thanks SL tours </p>
+            <h3>Michel liana</h3>
+            <span>traveler</span>
+            <img src="images/pic-4.jfif" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>So beautiful country & good costomer service</p>
+            <h3>Alen parker</h3>
+            <span>traveler</span>
+            <img src="images/pic-5.jfif" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+               <i class="sl tour-star"></i>
+            </div>
+            <p>Good culture & Friendly peoples in sri lanka , I love to visit another time. Reccomend SL tours</p>
+            <h3>deisy kalten</h3>
+            <span>traveler</span>
+            <img src="images/pic-6.jpg" alt="">
+         </div>
+
+      </div>
+
+   </div>
+
+</section>
+
+
+<section class="footer">
+
+   <div class="box-container">
+
+      <div class="box">
+         <h3>quick links</h3>
+         <a href="home.html"> <i class="sl tour-angle-right"></i> home</a>
+         <a href="about.html"> <i class="sl tour-angle-right"></i> about</a>
+         <a href="package.html"> <i class="sl tour-angle-right"></i> package</a>
+         <a href="book.html"> <i class="sl tour-angle-right"></i> book</a>
+      </div>
+
+      <div class="box">
+         <h3>extra links</h3>
+         <a href="#"> <i class="sl tour-angle-right"></i> ask questions</a>
+         <a href="#"> <i class="sl tour-angle-right"></i> about us</a>
+         <a href="#"> <i class="sl tour-angle-right"></i> privacy policy</a>
+         <a href="#"> <i class="sl tour-angle-right"></i> terms of use</a>
+      </div>
+
+      <div class="box">
+         <h3>contact info</h3>
+         <a href="#"> <i class="sl tour-phone"></i> +94-769497317 </a>
+         <a href="#"> <i class="sl tour-phone"></i> +94-769497316 </a>
+         <a href="#"> <i class="sl tour-envelope"></i> sltours@gmail.com </a>
+         <a href="#"> <i class="sl tour-map"></i> colombo,Sri Lanka </a>
+      </div>
+
+      <div class="box">
+         <h3>follow us</h3>
+         <a href="#"> <i class="slk tour-facebook-f"></i> facebook </a>
+         <a href="#"> <i class="slk tour-twitter"></i> twitter </a>
+         <a href="#"> <i class="slk tour-instagram"></i> instagram </a>
+         <a href="#"> <i class="slk tour-linkedin"></i> linkedin </a>
+      </div>
+
+   </div>
+
+   <div class="credit"> created by <span>Harsha wijerathna</span> | all rights reserved! </div>
+
+</section>
+
+
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
